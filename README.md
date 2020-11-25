@@ -35,6 +35,14 @@ The app works in the rails console and allows the user to play with the relation
 <hr>
 
 
+## 🤖 Set Up
+
+Clone the [repository URL](https://github.com/thneves/micro-reddit-app.git), get into the project root folder and run the migrations for the database
+> rails db:migrate
+
+And then use the rails console for the project to run the tests using the command
+> rails console
+
 
 ## 🔧 Built With
 
